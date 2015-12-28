@@ -1,0 +1,28 @@
+name: HOODWINK
+favicon: null
+layout_spectrum: 0.9385505989193916
+typography_spectrum: 0.9208598770201206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0023519161622971296
+  lightness: 0.19564282102510333
+  saturation: 0.8012845262419432
+  rhythmicContrast: 0.6526830706279725
+purpose: []
